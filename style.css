@@ -5,3 +5,11 @@
     border: 1px solid black;
     /* https://projects.raspberrypi.org/pt-PT/projects/pixel-art/6 */
 }
+
+.pixel {
+    display: inline-block;
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+}
