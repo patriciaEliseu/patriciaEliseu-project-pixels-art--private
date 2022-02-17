@@ -1,3 +1,7 @@
 let corPalette = document.getElementsByClassName('color');
-/*  */
-console.log(corPalette);
+
+let penColour = "black";
+
+function setPenColout(pen) {
+    penColour = pen;
+}
