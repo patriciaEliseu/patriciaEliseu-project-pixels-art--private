@@ -3,8 +3,10 @@
     width: 40px;
     height: 40px;
     border: 1px solid black;
-    /* https://projects.raspberrypi.org/pt-PT/projects/pixel-art/6 */
 }
+
+
+/* https://projects.raspberrypi.org/pt-PT/projects/pixel-art/6 */
 
 .pixel {
     display: inline-block;
@@ -32,4 +34,18 @@
 
 .yellow {
     background-color: yellow
+}
+
+#clear-board {
+    display: block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 1px solid black;
+    font-size: medium;
+    text-align: center;
+    width: 200px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
 }
