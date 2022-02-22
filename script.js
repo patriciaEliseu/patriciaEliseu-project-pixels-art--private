@@ -26,6 +26,9 @@ for (let index = 0; index < pixelsColor.length; index += 1) {
         event.target.style.backgroundColor = selectedcolor;
     })
 }
+
+
+
 /* console.log(colours); */
 /* let button = document.getElementById('clear-board'); */
 /* console.log(button); */
